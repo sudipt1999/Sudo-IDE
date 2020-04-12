@@ -10,6 +10,12 @@ Note:-<br>
 Remember to set the path of ```C```, ```C++```, ```Java```, ```python``` in your system <br>
 by setting environment variables.
 
+
+### IMPROVED FEATURES
+Added VS Code Editor to the app !!!!
+New Look
+![](./assests/vscode.png)
+
 ### Available Language
 1. ### C
 #### Without Input
