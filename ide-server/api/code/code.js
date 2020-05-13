@@ -24,7 +24,7 @@ router.post('/submit', (req,res)=>{
     const input = req.body.input
     const lang = req.body.lang
     switch(lang) {
-        case "c++" : return execute.cPlusPlusExecute(code, input)
+        case "cpp" : return execute.cPlusPlusExecute(code, input)
         .then(data=>{
             console.log("SUCCESSFULL PROMISE " + data)
             console.log("SENDING " + data)
